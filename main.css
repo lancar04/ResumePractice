@@ -1,0 +1,17 @@
+main {
+  padding: 60px;
+}
+
+#contact{
+	background-color: aquamarine;
+	width: 600px;
+}
+#education{
+	background-color: crimson;
+	width: 600px;
+
+}
+#work{
+	background-color: lightgreen;
+	width: 600px;
+}
